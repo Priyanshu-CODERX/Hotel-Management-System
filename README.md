@@ -1,5 +1,3 @@
-# HOTEL-MANAGEMENT-SYSTEM
+#HOTEL-MANAGEMENT-SYSTEM
 
-# Requirements {
-  Java Compiler(Latest Version)
-}
+Ths is a hotel management system maed by me.
